@@ -52,4 +52,4 @@ jobs:
         context: .
         file: ./chavez
         push: true
-        tags: ghcr.io/julianchavezdiaz/trabajo:latest
+        tags: ghcr.io/julianchavezdiaz/chavez:latest
